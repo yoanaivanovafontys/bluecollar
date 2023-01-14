@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Air Jordan 1 Retro",
+        "price": 290.00,
+        "imgUrl": "/imgs/shoe1.png"
+    },
+    {
+        "id": 2,
+        "name": "Nike Phantom GT Elite",
+        "price": 279.99,
+        "imgUrl": "/imgs/shoe2.png"
+    },
+    {
+        "id": 3,
+        "name": "Nike Air Max 90",
+        "price": 149.99,
+        "imgUrl": "/imgs/shoe3.png"
+    },
+    {
+        "id": 4,
+        "name": "Jordan 7 Retro SE",
+        "price": 217.00,
+        "imgUrl": "/imgs/shoe4.png"
+    },
+    {
+        "id": 5,
+        "name": "Nike Air Force 1",
+        "price": 109.99,
+        "imgUrl": "/imgs/shoe5.png"
+    },
+    {
+        "id": 6,
+        "name": "Nike Air Max TW",
+        "price": 319.99,
+        "imgUrl": "/imgs/shoe6.png"
+    },
+    {
+        "id": 7,
+        "name": "Nike Court Vision Low",
+        "price": 149.99,
+        "imgUrl": "/imgs/shoe7.png"
+    },
+    {
+        "id": 8,
+        "name": "Nike Air Force 1 '07",
+        "price": 229.99,
+        "imgUrl": "/imgs/shoe8.png"
+    },
+    {
+        "id": 9,
+        "name": "Jumpman Two Trey PSG",
+        "price": 199.99,
+        "imgUrl": "/imgs/shoe9.png"
+    },
+    {
+        "id": 10,
+        "name": "Zoom Freak 4 NRG",
+        "price": 99.00,
+        "imgUrl": "/imgs/shoe10.png"
+    },
+    {
+        "id": 11,
+        "name": "Nike Dunk Low Unlocked By You",
+        "price": 299.99,
+        "imgUrl": "/imgs/shoe11.png"
+    },
+    {
+        "id": 12,
+        "name": "Nike Air Max 95 By You",
+        "price": 399.99,
+        "imgUrl": "/imgs/shoe12.png"
+    },
+    {
+        "id": 13,
+        "name": "Jordan Jumpman Pro",
+        "price": 289.99,
+        "imgUrl": "/imgs/shoe13.png"
+    },
+    {
+        "id": 14,
+        "name": "Nike Dunk High By You",
+        "price": 299.99,
+        "imgUrl": "/imgs/shoe14.png"
+    },
+    {
+        "id": 15,
+        "name": "Nike SuperRep Go 3 Next Nature Flyknit",
+        "price": 99.99,
+        "imgUrl": "/imgs/shoe15.png"
+    },
+    {
+        "id": 16,
+        "name": "KD Trey 5 X",
+        "price": 105.99,
+        "imgUrl": "/imgs/shoe16.png"
+    }
+]

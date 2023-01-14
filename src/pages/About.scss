@@ -1,0 +1,12 @@
+.body-about {
+	display: flex;
+	flex-direction: row;
+	gap: 4vw;
+	justify-content: center;
+	span {
+		img {
+			width: 60vw;
+			height: auto;
+		}
+	}
+}
